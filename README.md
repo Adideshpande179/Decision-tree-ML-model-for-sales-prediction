@@ -1,1 +1,1 @@
-these files contains train and test data for Prediction using ML model. ( desicion tree )
+These files contain train and test data for Prediction using an ML model. (decision tree)
